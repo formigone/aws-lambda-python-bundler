@@ -1,0 +1,5 @@
+.idea
+dev/dist
+venv
+*.__pychache__
+.DS_Store
